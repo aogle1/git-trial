@@ -1,1 +1,2 @@
 This is a plain text file.
+This is my second commit. This text has been added. 
